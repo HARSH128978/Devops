@@ -5,7 +5,7 @@ let port =9000;
 
 app.get('/ping', (req,res)=>{
     res.send({
-        message : 'Hello, World'
+        message : 'Hello, GLS'
 });
 });
 
